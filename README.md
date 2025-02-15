@@ -2,10 +2,10 @@
 
 ## 1. Project Description  
 This Telegram bot helps users improve their fitness and health by providing the following features:  
-- BMI Calculation: Users can input their weight and height to calculate their Body Mass Index (BMI) and receive a classification (underweight, normal, overweight, or obese).  
-- Reminders: Users can set reminders for workouts or other fitness-related activities at specific times, and the bot will send a notification.  
-- Daily Fitness Challenges: The bot suggests random fitness challenges such as drinking water, doing push-ups, or walking a certain number of steps.  
-- Food Photo Analysis: Users can send photos of their meals, and the bot can provide an estimated calorie count.  
+- BMI Calculation
+- Reminders
+- Daily Fitness Challenges
+- Food Photo Analysis
 
 ## 2. Functionality  
 - Calculate BMI: The user inputs their weight and height. The bot calculates BMI and categorizes it as underweight, normal, overweight, or obese.  

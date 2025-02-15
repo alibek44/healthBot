@@ -41,4 +41,4 @@ This Telegram bot helps users improve their fitness and health by providing the 
 
 ## 5. Command Examples  
 - /start: Start interacting with the bot.  
-- /reviews: Leave feedback.    вот окончательная документация
+- /reviews: Leave feedback. 

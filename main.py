@@ -209,7 +209,7 @@ def set_reminder(message: Message):
 #funtion that counts kcal by uploaded photo using AI
 @bot.message_handler(func=lambda message: message.text == "📸 Фото еды")
 def welcome(message: Message):
-    bot.send_message(message.chat.id, "Отправте фото еды")
+    bot.send_message(message.chat.id, "Отправьте фото еды")
 @bot.message_handler(content_types=['photo']) #take an uploaded photo
 def photo_kcal(message):
     if message.photo:
